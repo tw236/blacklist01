@@ -4,3 +4,4 @@
 ,drawbut.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
 ,socksince.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
 ,brilliantfaronly.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
+,aroundwhoever.com,,1,TW_Blacklist,DNSBL_Ugh_ADs

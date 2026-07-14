@@ -1,7 +1,7 @@
-,html-load.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
-,flipp.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
-,wallabyhusky.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
-,drawbut.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
-,socksince.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
-,brilliantfaronly.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
-,aroundwhoever.com,,1,TW_Blacklist,DNSBL_Ugh_ADs
+html-load.com
+flipp.com
+wallabyhusky.com
+drawbut.com
+socksince.com
+brilliantfaronly.com
+aroundwhoever.com
